@@ -1014,6 +1014,4 @@ She is now ready to move to:
 
 ### **[Step 17 — Examine Moderators](https://github.com/adnan-mayof/Examine-Moderators/blob/main/README.md)**
 
-### **[Step 16 — Examine Heterogeneity](https://github.com/adnan-mayof/Examine-Heterogeneity/blob/main/README.md)**
-
  
