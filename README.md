@@ -1003,52 +1003,17 @@ D. Recalculate the research question
 
 ---
 
-# Maya's Evidence Synthesis Journey
+## 🚀 Maya's Journey Continues
 
-```text
-1. Identify the Research Gap
-        ↓
-2. Develop the Research Question
-        ↓
-3. Develop Search Terms From PICO/PICOS
-        ↓
-4. Test and Refine the Search Strategy
-        ↓
-5. Search the Databases
-        ↓
-6. Develop and Register the Protocol
-        ↓
-7. Download and Manage the Search Results
-        ↓
-8. Title and Abstract Screening
-        ↓
-9. Full-Text Screening
-        ↓
-10. Risk-of-Bias Assessment
-        ↓
-11. Data Extraction
-        ↓
-12. Decide Whether Meta-Analysis Is Appropriate
-        ↓
-13. Prepare the Data for Analysis
-        ↓
-14. Calculate Effect Sizes
-        ↓
-15. Conduct the Meta-Analysis
-        ↓
-16. Examine Heterogeneity
-        ↓
-17. Examine Moderators
-```
+Maya has now **completed the Examine Heterogeneity stage**.
+The next challenge is to conduct the Examine Moderators.
 
-## Transition to Step 17
+She is now ready to move to:
 
-Maya now knows that the effects vary across studies.
+### Next Step
 
-Her next question is:
+### **[Step 17 — Examine Moderators](https://github.com/adnan-mayof/Examine-Moderators/blob/main/README.md)**
 
-> **“What characteristics of the intervention, learners, learning context, outcomes, or study methods might explain these differences?”**
+### **[Step 16 — Examine Heterogeneity](https://github.com/adnan-mayof/Examine-Heterogeneity/blob/main/README.md)**
 
-That is the focus of:
-
-# Step 17 — Examine Moderators
+ 
